@@ -1,8 +1,6 @@
 #importar librerias
 
 import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
 
 def tablero(Nx, Ny):
     # Creamos una matriz de tamaño Ny x Nx con valores aleatorios de 0 o 1 para el tablero
