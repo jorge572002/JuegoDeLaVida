@@ -1,5 +1,4 @@
 #importación de librerias
-import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from GOLFunctions import tablero, actualizarReglas
